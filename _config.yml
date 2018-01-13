@@ -1,8 +1,8 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
-picture:        'assets/img/profile.png'
+title:          Ourania (Rania) Spantidi
+bio:            'Talk is cheap. Show me the code.'
+description:    "aka my small online place."
+picture:        'assets/img/20180105_144813.jpg'
 locale:         en_US
 url:            https://raniaspant.github.io
 
@@ -23,9 +23,7 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
-twitter: username
-facebook: username
+email: rania.spantidi@gmail.com
 #google:
   #plus: #username
   #analytics:
@@ -33,18 +31,15 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: raniaspant
+stackoverflow: 9059091/rania #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin: rania-spantidi
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
