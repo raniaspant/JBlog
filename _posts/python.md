@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Python work"
-project: true
+title: "Python work"
+date: 2018-01-13
+excerpt: "My Python work, school related or not."
+tags: [Python, data, NN]
 ---
 ## ![](http://www.analyticskhoj.com/wp-content/uploads/2015/10/xPython_logo.png.pagespeed.ic.lnG8EbA9-q.png)
 
