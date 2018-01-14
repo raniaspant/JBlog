@@ -23,4 +23,4 @@ Well, can't help it, I aspire to be a game developer. My absolute #1 passion is 
 
 More programming challenges. I want to keep exercising my mind and keep widening my programming skills.
 
-Curriculum Vitae: [Click!](https://drive.google.com/open?id=1JcUESOAEobQ3UWbo0CIfLpK9XBZaaYMK)
+Curriculum Vitae: [Click!](https://drive.google.com/open?id=1hj0FtqpOZgu-YOfboGzaDmAXWW9FTSEE)
