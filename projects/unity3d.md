@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 ## ![](https://chocolatey.org/content/packageimages/unity.2017.3.0.1-patch.png)
 
 ### [](#header-2)Authored Tutorials
