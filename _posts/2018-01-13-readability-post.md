@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Python work"
-date: 2018-01-13
 excerpt: "My Python work, school related or not."
 tags: [Python, data, NN]
 ---
