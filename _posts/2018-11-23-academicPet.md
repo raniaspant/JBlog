@@ -2,7 +2,7 @@
 layout: post
 title: "Academic Pet"
 date: 2018-11-23
-image: https://image.ibb.co/jckeQV/vagelis.png
+image: https://i.imgur.com/8loyxZd.png
 project: true
 tags: [Unity3d, C#, Game Development]
 ---
