@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, JBlog]
 ---
 # Hello there.
 
-I am currently doing my MSc in Computer Science in Southern Illinois University Carbondale, under [Dr. Christos Mousas](https://sites.google.com/site/chrismousas/).
+I am currently doing my MSc in Computer Science in Southern Illinois University Carbondale.(https://sites.google.com/site/chrismousas/).
 
 ### [](#header-3)What do I like?
 
@@ -23,4 +23,3 @@ Well, can't help it, I aspire to be a game developer. My absolute #1 passion is 
 
 More programming challenges. I want to keep exercising my mind and keep widening my programming skills.
 
-Curriculum Vitae: [Click!](https://drive.google.com/open?id=1DgocMiYMWyP1CXy8fQxYMce6--hav3O_)
