@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, JBlog]
 ---
 # Hello there.
 
-I am currently doing my MSc in Computer Science in Southern Illinois University Carbondale.
+I am currently doing my MSc in Computer Science in Southern Illinois University Carbondale. This is a page for my gaming (WIP or not) ideas and projects. However I have a bunch of different things uploaded on my github main page [here](https://github.com/raniaspant)!
 
 ### [](#header-3)What do I like?
 
