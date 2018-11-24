@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, JBlog]
 ---
 # Hello there.
 
-I am currently doing my MSc in Computer Science in Southern Illinois University Carbondale.(https://sites.google.com/site/chrismousas/).
+I am currently doing my MSc in Computer Science in Southern Illinois University Carbondale.
 
 ### [](#header-3)What do I like?
 
