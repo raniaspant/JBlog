@@ -6,7 +6,7 @@ image: https://i.imgur.com/8loyxZd.png
 project: true
 tags: [Unity3d, C#, Game Development]
 ---
-<p align="center"><b>Pet Simulation WIP</b></p>
+<p align="center"><b>Unity3D - Pet Simulation WIP</b></p>
 
 2D pet simulation game based on the videos of [Hunter Heidenreich](https://www.youtube.com/watch?v=JUgy7Lm3hH8&list=PLbCx65TBvT-QgTitVMCWGH1HQW_YfdMDK) with some art and functionality expansions. Some of the assets used come from [Kenney](https://www.kenney.nl/assets). [Click here](https://github.com/raniaspant/academicPet) for the repository.
 
